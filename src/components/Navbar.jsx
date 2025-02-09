@@ -4,7 +4,7 @@ import menuIcon from '../assets/menu_icon.svg'
 import crossIcon from '../assets/cross_icon.svg'
 
 const menu = [
-    {id:1, name:"Home", href:"#Hero"},
+    {id:1, name:"Home", href:"#"},
     {id:2, name:"About", href:"#About"},
     {id:3, name:"Projects", href:"#Projects"},
     {id:4, name:"Testimonials", href:"#Testimonials"}
